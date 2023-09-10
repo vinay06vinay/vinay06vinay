@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Vinay, a Robotics Student at University of Maryland, College Park
-- 👀 I’m interested in working with robots, embedded systems and software
-- 🔍 Actively Looking for Summer 2023 internships
-- :computer: Working actively on Perception, Planning and Autonomous Robots
+- 👀 I’m interested in working with robots, autonomous systems and software
+- :computer: Actively working on Perception, Planning and Autonomous Robots
+- 🌱 I'm currently learning Software, Machine learning and Deep Learning for Robotics
+- Have a look into my journey of building an Autonomous Robot-> [here](https://youtu.be/-1Ja9Sxqja4)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
