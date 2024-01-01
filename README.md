@@ -54,6 +54,9 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=vinay06vinay&show_icons=true&theme=onedark" alt="Vinay's GitHub Stats" width="45%" />
-  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=vinay06vinay&show_icons=true&locale=en&layout=compact" alt="Vinay's Top Languages" width="40%" />
+  <!-- <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=vinay06vinay&show_icons=true&locale=en&layout=compact" alt="Vinay's Top Languages" width="40%" /> -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay06vinay&layout=donut&hide=jupyter%20notebook" alt="Vinay's Top Languages" width="35%" />
 </div>
+
+
 
