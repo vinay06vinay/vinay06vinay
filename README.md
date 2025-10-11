@@ -2,7 +2,7 @@
 - 👀 I’m interested in working with Robots, Autonomous systems and Software
 - :computer: Actively working on Perception, Planning and Autonomous Robots
 - 🌱 I'm currently learning Software, Computer Vision and Deep Learning.
-- Have a look into my journey of building an Autonomous Robot-> [here](https://youtu.be/-1Ja9Sxqja4)
+- Have a look into my journey of building an Autonomous Robot-> [here](https://youtu.be/zGoN3OIjW3Y?si=ebEfnoLQsIS3-Fuc)
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <div id="badges" align="center" style="display: flex;">
