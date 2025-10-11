@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vinay, a Robotics Student at University of Maryland, College Park
+- 👋 Hi, I’m Vinay, a Robotics Engineer at OTTO By Rockwell Automation
 - 👀 I’m interested in working with Robots, Autonomous systems and Software
 - :computer: Actively working on Perception, Planning and Autonomous Robots
 - 🌱 I'm currently learning Software, Computer Vision and Deep Learning.
